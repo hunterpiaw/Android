@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">K_2_53023263002</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_bmi">BMI</string>
+    <string name="title_activity_vdo">VDO</string>
+    <string name="title_activity_calculator">Calculator</string>
+    <string name="title_activity_map">MAP</string>
+
+</resources>
